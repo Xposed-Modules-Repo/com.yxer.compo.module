@@ -7,3 +7,5 @@ Xposed 插件
 - 重定向 R-安装组件 启动 已安装应用 的 intent 改用系统启动。
 - 对QQ进行伪装，把WIFI伪装成数据网络
 - 对Edge(com.microsoft.emmx)伪装未启用无障碍
+## R-安装组件 下载(Telegram)
+- https://t.me/joinchat/AE6otyLVOCtlYzhl
